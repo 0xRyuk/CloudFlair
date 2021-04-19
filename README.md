@@ -52,10 +52,6 @@ $ python cloudflair.py myvulnerable.site
 
 ## Setup
 
-1) 
-2) 
-
-
 1) Clone the repository
 
 ```

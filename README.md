@@ -55,7 +55,7 @@ $ python cloudflair.py myvulnerable.site
 1) Clone the repository
 
 ```
-$ git clone https://github.com/christophetd/cloudflair.git
+$ git https://github.com/0xRyuk/CloudFlair.git
 ```
 
 2) Install the dependencies
